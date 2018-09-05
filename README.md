@@ -47,6 +47,7 @@
   + generate, create
   + has
   + compare
+  + do
 
 
 
