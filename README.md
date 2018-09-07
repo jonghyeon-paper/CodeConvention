@@ -17,14 +17,13 @@
 + 카멜 표기법을 사용한다.
 + 명사로 표기한다.
 + 자주 사용하는 명사
-  + item, value, object
-  + index, count
-  + new
-  + parameter
-  + result
-  + error
-  + message
-  + clazz
+  + item, data, object, value
+  + list, array
+  + infomation, tree, structure
+  + index(i), count
+  + new, old
+  + parameter, result
+  + success, fail, error
 
 3. 상수
 + 언더스코어 표기법(스네이크 표기법)을 사용한다.
@@ -44,10 +43,12 @@
   + save, store
   + apply
   + request
+  + approve, reject
   + generate, create
   + has
   + compare
   + do
+  + renew
 
 
 
