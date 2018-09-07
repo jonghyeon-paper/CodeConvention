@@ -40,8 +40,8 @@
   + retrieve, add, edit, remove
   + initialize
   + find
-  + save, store
-  + apply
+  + store, save
+  + apply, clear
   + request
   + approve, reject
   + generate, create
@@ -49,6 +49,7 @@
   + compare
   + do
   + renew
+  + listen
 
 
 
@@ -131,7 +132,8 @@ if (c != 3) {
 
 + 오브젝트타입의 매개변수를 로컨변수에 재할당 금지 - 전역변수에 재할당하면 전역변수의 값의 흐름을 파악하는데 어렵게 된다. JAVA에서 메소드(함수)는 call by value로 동작한다. 하지만 매개변수가 오브젝트이면(원시타입은 제외) call by reference처럼 동작한다. 때문에 의도하지 않은 값의 변화가 발생할 수 있다.
 
-+ 
++ void - 리턴형이 아무것도 없는 함수 생성을 피한다. 단순히 값을 받기위한 setter를 제외하고는 리턴 타입을 부여한다.
+
 + 
 + 
 + 
