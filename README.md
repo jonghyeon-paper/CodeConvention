@@ -38,7 +38,7 @@
 + 자주 사용하는 동사
   + get, set
   + select, insert, update, delete
-  + retrieve, add, edit, remove
+  + retrieve, find, add, register, edit, modify, remove
   + initialize
   + find
   + store, save
