@@ -19,11 +19,13 @@
 + 자주 사용하는 명사
   + item, data, object, value
   + list, array
-  + infomation, tree, structure
+  + information, tree, structure
   + index(i), count
   + new, old
   + parameter, result
-  + success, fail, error
+  + success, failure, error
+  + begin, finish
+  + from, to
 
 3. 상수
 + 언더스코어 표기법(스네이크 표기법)을 사용한다.
@@ -40,7 +42,7 @@
   + select, insert, update, delete
   + retrieve, find, add, register, edit, modify, remove
   + initialize
-  + find
+  + retrieve, find, search
   + store, save
   + apply, clear
   + request
