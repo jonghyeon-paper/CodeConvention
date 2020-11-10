@@ -50,7 +50,7 @@
   + generate, create
   + has
   + compare
-  + do
+  + do, execute, run
   + renew
   + listen
   + put, take
